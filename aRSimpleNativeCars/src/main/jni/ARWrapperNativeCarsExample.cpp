@@ -94,18 +94,18 @@ JNIEXPORT void JNICALL
 JNIFUNCTION_DEMO(demoInitialise(JNIEnv * env, jobject
                          object)) {
 
-const char *model0file = "Data/models/Tiger/Tiger.obj";
-const char *model1file = "Data/models/Tiger/Tiger.obj";
+const char *model0file = "Data/models/Apple/apple4.obj";
+const char *model1file = "Data/models/needle01/needle2.obj";
 
 models[0].
-patternID = arwAddMarker("single;Data/hiro.patt;80");
+patternID = arwAddMarker("single;Data/A.patt;80");
 arwSetMarkerOptionBool(models[0]
 .patternID, ARW_MARKER_OPTION_SQUARE_USE_CONT_POSE_ESTIMATION, false);
 arwSetMarkerOptionBool(models[0]
 .patternID, ARW_MARKER_OPTION_FILTERED, true);
 
 models[0].
-obj = glmReadOBJ2(model0file, 0, 0); // context 0, don't read textures yet.
+obj = glmReadOBJ3(model0file, 0, 0,true); // context 0, don't read textures yet.
 if (!models[0].obj) {
 LOGE("Error loading model from file '%s'.", model0file);
 exit(-1);
@@ -126,7 +126,7 @@ arwSetMarkerOptionBool(models[1]
 .patternID, ARW_MARKER_OPTION_FILTERED, true);
 
 models[1].
-obj = glmReadOBJ2(model1file, 0, 0); // context 0, don't read textures yet.
+obj = glmReadOBJ3(model1file, 0, 0,true); // context 0, don't read textures yet.
 if (!models[1].obj) {
 LOGE("Error loading model from file '%s'.", model1file);
 exit(-1);

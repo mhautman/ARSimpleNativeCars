@@ -9,34 +9,6 @@
         <dex dex="/home/sophie/Desktop/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/pre-dexed/debug/support-annotations-23.4.0-d5d27e9702db492ab1fa8ef9317960f20f21a4d0.jar" />
     </item>
     <item
-        jar="/home/sophie/Desktop/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="/home/sophie/Desktop/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/pre-dexed/debug/internal_impl-23.4.0-8d6f1ded0c303369f0bdcbd4214e2b236b2cf0f1.jar" />
-    </item>
-    <item
-        jar="/home/sophie/Desktop/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="/home/sophie/Desktop/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/pre-dexed/debug/classes-f97e559a9749781e1951a32eea6c36f40ea798cf.jar" />
-    </item>
-    <item
-        jar="/home/sophie/Desktop/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/exploded-aar/ARSimpleNativeCarsProj/aRBaseLib/unspecified/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="44b025e216f91da596373dc8e6ade4a694e550b8">
-        <dex dex="/home/sophie/Desktop/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/pre-dexed/debug/classes-f99fe8ab7b10f6cb9d1756235531a977b21a955f.jar" />
-    </item>
-    <item
-        jar="/home/sophie/Desktop/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="/home/sophie/Desktop/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/pre-dexed/debug/classes-a566925ff1b1bb4edcfb27b02a70ab55e0801c11.jar" />
-    </item>
-    <item
         jar="/home/sophie/Desktop/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
@@ -49,6 +21,34 @@
         revision="23.0.2"
         sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
         <dex dex="/home/sophie/Desktop/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/pre-dexed/debug/classes-968149f06376b794287422e37fa724538d651a55.jar" />
+    </item>
+    <item
+        jar="/home/sophie/Desktop/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/sophie/Desktop/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/pre-dexed/debug/classes-a566925ff1b1bb4edcfb27b02a70ab55e0801c11.jar" />
+    </item>
+    <item
+        jar="/home/sophie/Desktop/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/sophie/Desktop/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/pre-dexed/debug/classes-f97e559a9749781e1951a32eea6c36f40ea798cf.jar" />
+    </item>
+    <item
+        jar="/home/sophie/Desktop/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/sophie/Desktop/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/pre-dexed/debug/internal_impl-23.4.0-8d6f1ded0c303369f0bdcbd4214e2b236b2cf0f1.jar" />
+    </item>
+    <item
+        jar="/home/sophie/Desktop/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/exploded-aar/ARSimpleNativeCarsProj/aRBaseLib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44b025e216f91da596373dc8e6ade4a694e550b8">
+        <dex dex="/home/sophie/Desktop/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARSimpleNativeCarsProj/aRSimpleNativeCars/build/intermediates/pre-dexed/debug/classes-f99fe8ab7b10f6cb9d1756235531a977b21a955f.jar" />
     </item>
 
 </items>

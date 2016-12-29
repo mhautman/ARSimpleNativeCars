@@ -10,8 +10,8 @@ model {
             applicationId = "org.artoolkit.ar.samples.ARSimpleNativeCars"
             minSdkVersion.apiLevel = 15
             targetSdkVersion.apiLevel = 22
-            versionCode = 3
-            //Integer typ inc1remented by 1 for every release, major or minor, to Google store
+            versionCode = 11
+            //Integer typ incremented by 1 for every release, major or minor, to Google store
             versionName = "1.0.2" //Real fully qualified major and minor release description
 
             buildConfigFields.with {
