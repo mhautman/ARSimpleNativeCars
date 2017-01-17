@@ -57,22 +57,22 @@
 #define JNIFUNCTION_DEMO(sig) Java_org_artoolkit_ar_samples_ARSimpleNativeCars_SimpleNativeRenderer_##sig
 
 extern "C" {
-JNIEXPORT void JNICALL
-JNIFUNCTION_DEMO(demoInitialise(JNIEnv * env, jobject
+    JNIEXPORT void JNICALL
+    JNIFUNCTION_DEMO(demoInitialise(JNIEnv * env, jobject
                          object)) ;
-JNIEXPORT void JNICALL
-JNIFUNCTION_DEMO(demoShutdown(JNIEnv * env, jobject
+    JNIEXPORT void JNICALL
+    JNIFUNCTION_DEMO(demoShutdown(JNIEnv * env, jobject
                          object)) ;
-JNIEXPORT void JNICALL
-JNIFUNCTION_DEMO(demoSurfaceCreated(JNIEnv * env, jobject
+    JNIEXPORT void JNICALL
+    JNIFUNCTION_DEMO(demoSurfaceCreated(JNIEnv * env, jobject
                          object)) ;
-JNIEXPORT void JNICALL
-JNIFUNCTION_DEMO(demoSurfaceChanged(JNIEnv * env, jobject
+    JNIEXPORT void JNICALL
+    JNIFUNCTION_DEMO(demoSurfaceChanged(JNIEnv * env, jobject
                          object, jint
                          w, jint
                          h)) ;
-JNIEXPORT void JNICALL
-JNIFUNCTION_DEMO(demoDrawFrame(JNIEnv * env, jobject
+    JNIEXPORT void JNICALL
+    JNIFUNCTION_DEMO(demoDrawFrame(JNIEnv * env, jobject
                          obj)) ;
 };
 
@@ -90,12 +90,12 @@ static float lightAmbient[4] = {0.1f, 0.1f, 0.1f, 1.0f};
 static float lightDiffuse[4] = {1.0f, 1.0f, 1.0f, 1.0f};
 static float lightPosition[4] = {0.0f, 0.0f, 1.0f, 0.0f};
 
-JNIEXPORT void JNICALL
-JNIFUNCTION_DEMO(demoInitialise(JNIEnv * env, jobject
+    JNIEXPORT void JNICALL
+    JNIFUNCTION_DEMO(demoInitialise(JNIEnv * env, jobject
                          object)) {
 
 const char *model0file = "Data/models/Apple/apple4.obj";
-const char *model1file = "Data/models/needle01/needle2.obj";
+const char *model1file = "Data/models/Lemon/Lemon2.obj";
 
 models[0].
 patternID = arwAddMarker("single;Data/A.patt;80");
@@ -119,7 +119,7 @@ models[0].
 visible = false;
 
 models[1].
-patternID = arwAddMarker("single;Data/kanji.patt;80");
+patternID = arwAddMarker("single;Data/b.patt;80");
 arwSetMarkerOptionBool(models[1]
 .patternID, ARW_MARKER_OPTION_SQUARE_USE_CONT_POSE_ESTIMATION, false);
 arwSetMarkerOptionBool(models[1]
