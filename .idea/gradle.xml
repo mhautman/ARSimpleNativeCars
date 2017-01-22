@@ -9,7 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/aRBaseLib" />
-            <option value="$PROJECT_DIR$/aRSimpleNativeCars" />
+            <option value="$PROJECT_DIR$/alfabetAR" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

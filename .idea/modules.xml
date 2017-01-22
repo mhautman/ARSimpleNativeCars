@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ARSimpleNativeCarsProj.iml" filepath="$PROJECT_DIR$/ARSimpleNativeCarsProj.iml" />
       <module fileurl="file://$PROJECT_DIR$/aRBaseLib/aRBaseLib.iml" filepath="$PROJECT_DIR$/aRBaseLib/aRBaseLib.iml" />
-      <module fileurl="file://$PROJECT_DIR$/aRSimpleNativeCars/aRSimpleNativeCars.iml" filepath="$PROJECT_DIR$/aRSimpleNativeCars/aRSimpleNativeCars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alfabetAR/alfabetAR.iml" filepath="$PROJECT_DIR$/alfabetAR/alfabetAR.iml" />
     </modules>
   </component>
 </project>
